@@ -1,5 +1,6 @@
 # DFIR-Home-Lab
 This project demonstrates hands-on experience relevant to a SOC Analyst role
+
 🧱 Lab Architecture
 **Host System**
 - 8 CPU cores
